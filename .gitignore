@@ -72,3 +72,4 @@ crashlytics-build.properties
 
 # Other
 /[Aa]ssets/[Pp]lug-in/MMD4Mecanim/
+/[Aa]ssets/[Pp]lug-in/MMD4Mecanim*
